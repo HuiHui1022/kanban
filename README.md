@@ -2,6 +2,8 @@
 
 A Vue 3 Kanban board application with comprehensive task management features and admin panel functionality.
 
+![App](https://github.com/HuiHui1022/kanban/raw/main/public/kanban.png)
+
 ## Features
 
 ### Task Management
